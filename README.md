@@ -269,10 +269,9 @@ npx expo start
 
 Depois disso, é possível executar o projeto utilizando:
 
-* Expo Go
-* Android Emulator
-* Dispositivo Android
-* Navegador, quando suportado pela configuração atual do projeto
+* Expo Go (app na Google play) (mais fácil de usar)
+
+configuração atual do projeto
 
 ---
 
