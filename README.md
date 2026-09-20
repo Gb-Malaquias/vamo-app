@@ -271,6 +271,8 @@ Depois disso, é possível executar o projeto utilizando:
 
 * Expo Go (app na Google play) (mais fácil de usar)
 
+**⚠️atenção** Atualmente somente a versão app funciona. A versão web não funciona.
+
 configuração atual do projeto
 
 ---
