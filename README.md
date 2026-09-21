@@ -269,7 +269,9 @@ npx expo start
 
 Depois disso, é possível executar o projeto utilizando:
 
-* Expo Go (app na Google play) (mais fácil de usar)
+* Expo Go *
+
+https://expo.dev/go?sdkVersion=54&platform=android&device=true
 
 **⚠️atenção** Atualmente somente a versão app funciona. A versão web não funciona.
 
